@@ -122,8 +122,8 @@ Doodle is a national IT company that develop sofware and make marketing services
 6. Drag the title bar - c) if you want to move the window. 
 7. Select the icon - g) and its background changes colour.
 
-# PG 15
-## 4
+## PG 15
+### 4
 He looking for install date of the disk
 
 ## 5
@@ -133,5 +133,23 @@ He looking for install date of the disk
 4. 5
 5. 3
 6. 1
+
+## 17
+### 5
+1. d
+2. c
+3. b
+4. f
+5. g
+6. a
+7. h
+8. e
+
+### 6
+1. connect to
+2. plug into
+3. unplug from
+4. disconnect from
+
 
 
