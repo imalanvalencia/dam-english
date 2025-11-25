@@ -33,7 +33,7 @@ We use sequencers (e.g. first, then, next, after that, finally) to show the orde
   * Then: entonces o luego
   * next: sigue
 
-\## Multimedia Hardware
+## Multimedia Hardware
 
 
 
@@ -47,6 +47,26 @@ verb + object + preposition + object of the preposition
 * Push "the enter" key
 * When finished, turn off the device (dispositivo)
 * Disconnect the cable from the device
+
+- adverb: Acompaña a un verbo
+- adjetive: acompaña al sustantivo y lo cambian
+
+## advebs
+
+### frequency
+always
+usually
+often
+sometimes
+rarely
+never
+### time expressions
+once
+twice
+a week
+three times
+every two months
+
 
 
 
