@@ -51,22 +51,46 @@ verb + object + preposition + object of the preposition
 - adverb: Acompaña a un verbo
 - adjetive: acompaña al sustantivo y lo cambian
 
-## advebs
+## Present simple and Present continuous
 
-### frequency
+|Present Simple | Present Continuous |
+| ----- | ------ |
+| habits, routines, timetables | now, future plans |
+| I/ you / we / they **play** | subject + to be + verb(ING) |
+| He / she / it **plays** | I am playing | 
+| I/ you / we / they **don't** play | subject + to be + not + verb(ING) |
+| He / she / it **doesn't** *play* | you are not playing
+| **Do** I/ you / we / they play | to be + subject + verb(ING)? |
+| **Does** He / she / it *play* | Is he playing? |
+| adverbs frequency, time expressions | now, at the moment, right now, ... |
+
+### advebs
+
+#### frequency
 always
 usually
 often
 sometimes
 rarely
 never
-### time expressions
+#### time expressions
 once
 twice
 a week
 three times
 every two months
 
-
+## Actions verbs and Non-Action verbs
+## Actions verbs (both present simple and present continuous)
+describe verbs
+eg., cook, make
+- Have 
+  - I'm **having** lunch (action)
+  - I **have** a cat (posession)
+- Think
+  - What are you **thinking**? (action)
+  - I **think** this music is great (opinion)
+## Non-actions verbs (Only present simple)
+describe, states, agree, be, believe, belong, depend, forget, hate, hear, know, like, love, matter, mean, need, preter, realize, recongnize, remeber, seem, suppose, want, ...
 
 
