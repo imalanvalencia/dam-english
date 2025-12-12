@@ -118,3 +118,9 @@ describe, states, agree, be, believe, belong, depend, forget, hate, hear, know, 
 | _PAST_    | verb + ed _didn't + verb_  **did...+ verb**     | to be(past) + verb + ing    | had + verb(ed/3rd column)  |
 | _FUTURE_  | will + verb _won't + verb_  **will...+ verb**     | will be + verb + ing    | will + have + verb(ed/3rd column)  |
 
+## PG 19
+### Expressing reason + purpose
+- for + noun phrase             | *for* the new features
+- so that (asi que) + cause     | *so that* you can use the new features
+- to + infinitive               | *to* use the new features
+- because + clause              | *because* it has new features

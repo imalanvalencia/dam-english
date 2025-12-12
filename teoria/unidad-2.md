@@ -176,3 +176,35 @@ He looking for install date of the disk
 8. process
 9. backup
 10. licence terms
+
+### 3
+1. for safety
+2. so that the process can start
+3. to enter BIOS
+4. because it newwds to know ...
+5. to use ...
+6. so that the computer ...
+
+## PG 19
+### 1
+| Open Source | Propiertary Source |
+|--|--|
+| Linux | Windows / Mac OS |
+| LibreOffice | Word |
+| GIMP | Photoshop |
+| VIM | Visual Studio Code |
+| VLC | Wndows media Player |
+
+### 2
+![alt text](image.png)
+- it's free
+- Freedom from software
+- you doesn't have to follow the software vendor's decitions
+- The ppeople can customize the software
+- You have more control of your data and you can know where it goes
+- variety of office software
+
+### 3
+- The cost to support
+- The people doesnt know to use it
+- 
