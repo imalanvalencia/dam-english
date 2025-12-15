@@ -196,7 +196,6 @@ He looking for install date of the disk
 | VLC | Wndows media Player |
 
 ### 2
-![alt text](image.png)
 - it's free
 - Freedom from software
 - you doesn't have to follow the software vendor's decitions
@@ -205,6 +204,11 @@ He looking for install date of the disk
 - variety of office software
 
 ### 3
-- The cost to support
-- The people doesnt know to use it
-- 
+- the cost is cheaper
+    - because the support is free 
+    - more user friendly  (no training required)
+-  better (developer has salary)
+    - more features
+    - better user interfaces
+    - fewer bugs
+- open source OS haven't a good support for design and video-editing software
