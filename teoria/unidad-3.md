@@ -26,3 +26,22 @@
 13. accent (´)
 14. keys ({})
 15. square brackets ([])
+
+## networks
+
+### 2
+- 3
+- 1
+- 2
+### 3
+1. one - wired network
+2. this - star system
+3. another type - wired network
+4. it - bus system
+5. this - mesh system
+6. This - the link to several other computer
+### 4
+1. ring
+2. star
+3. mesh
+4. bus
