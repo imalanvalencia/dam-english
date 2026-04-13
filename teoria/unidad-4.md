@@ -163,5 +163,33 @@ no its a big company cuase it has many departments
 ### 10
 1. Before finishing work for the day, check the logs, 
 2. Before starting work tomorrow, check out the db problem
-3. 
-4. 
+3. While you being in the server room check the wetwerk cabled
+4. After the new designer arrives set permissions on this computer
+
+## Peripherals
+### vocabulary
+1. NAS _ A
+2. toghscreen _ B
+3. headset _ C
+4. touchpad _ D
+5. graphic tablet and stylus _ E
+6. Stylus _ F
+7. multifunctional printer _ G
+8. projector _ H
+
+## Language
+1. I was printing some documentation whe the printer had a paper jam
+2. I was listening the podcast with headset when the sound stopped
+3. While i was using graphic tablet i moved stylus but the cursor didn't move
+4. The light stopped working while i was using the projector
+
+## Bussines matters
+| Problem | Action |
+|--|--|
+| Hard drive crashed | replace it |
+| want a new report | create it |
+| several dropouts | check server |
+| backup system failed | restart it |
+| locked out | reset password |
+| wrong cables | change cables |
+
